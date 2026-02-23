@@ -1,0 +1,9 @@
+{
+  "name": "apartment-finder-germany",
+  "version": "1.0.0",
+  "description": "Static web app for rental housing meta-search in Germany",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 4173"
+  }
+}
